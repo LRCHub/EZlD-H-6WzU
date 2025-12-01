@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "また夏を追う",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-01T08:13:29.421108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "また夏を追う",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_また夏を追う_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "また夏を追う",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_また夏を追う_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "また夏を追う",
+      "artist": "ATARAYO",
+      "has_synced": true,
+      "path": "select/03_また夏を追う_ATARAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "また夏を追う",
+      "artist": "ATARAYO (あたらよ)",
+      "has_synced": true,
+      "path": "select/04_また夏を追う_ATARAYO_(あたらよ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また夏を追う",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_また夏を追う_あたらよ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "また夏を追う",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_02_また夏を追う_あたらよ.txt"
+    }
+  ]
+}
